@@ -1,7 +1,4 @@
 # Health Bot Container
-
-A simple web page that allows users to communicate with the [Azure Health Bot](https://azure.microsoft.com/en-us/services/bot-services/health-bot/) through a WebChat.
-
 **Project Title:** Virtual health bot for disease detect and cure
 In order to use this Web Chat you need to visit the below website and use the service efficiently
 
