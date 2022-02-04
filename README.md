@@ -26,3 +26,9 @@ click on:
 
 **Note:** If you are deploying the code sample using the "Deploy to Azure" option, you should add the above secrets to the application settings for your App Service.
 
+**Thank you!**
+I would like to thank Microsoft and other folks at Future ready also congratulations to each and every student in India who is working hard for this internship. The knowledge about Azure and it's globally efficient services was amazing and i learned about it's usage in various industries.
+Thank you,for this opportunity.
+
+
+
