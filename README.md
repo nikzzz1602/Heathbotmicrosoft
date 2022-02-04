@@ -22,6 +22,11 @@ click on:
 
 `WEBCHAT_SECRET`
 
+**Output:**
+
+![aa](https://user-images.githubusercontent.com/82061500/152521335-ce3b3a49-a516-44c9-882f-58341093e01b.JPG)
+![tft7y](https://user-images.githubusercontent.com/82061500/152521389-7638dc64-c75d-495c-91b4-46b0ae8ea140.JPG)
+
 **Note:** If you are deploying the code sample using the "Deploy to Azure" option, you should add the above secrets to the application settings for your App Service.
 
 **Thank you!**
